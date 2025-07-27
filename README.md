@@ -30,3 +30,7 @@ $ yarn dev
 
 # 3. Open the url
 $ http://localhost:3000
+
+# Authentication 
+$ email: admin@blog.com
+$ pw: password 
